@@ -1,16 +1,24 @@
-## Hi there 👋
+# Nadaru Jeevan
 
-<!--
-**Jeevannadaru/Jeevannadaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent researcher focused on AI control and alignment failure modes.
 
-Here are some ideas to get you started:
+## Current Research Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Can AI systems reliably detect their own behavioral inconsistencies?
+
+Most AI safety pipelines ask humans to catch what the AI itself should 
+be catching first. I am applying to AICRAFT (DARPA/AE Studio) to test 
+this empirically — building a structured probe battery to measure the 
+gap between a model's actual inconsistencies and its self-reported 
+confidence about them.
+
+## Influences
+
+- 80,000 Hours · AI in Context video series
+- Noema Magazine · Technology & philosophy essays  
+- AI 2027 scenario and real-world control failures (Grok incident)
+
+## Research Area
+
+AI alignment · AI control · Evaluation methodology · Failure detection
+
